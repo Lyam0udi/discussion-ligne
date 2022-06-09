@@ -1,6 +1,6 @@
 # Desktop Chat Application
-##### This work is a kind of an online basic chat desktop application, it contains a server as it can have several clients. Based on C#.
-##### NB : The server must be run first, then we will have the right to run any number of clients.
+This work is a kind of an online basic chat desktop application, it contains a server as it can have several clients. Based on C#.
+###### NB : The server must be run first, then we will have the right to run any number of clients.
 
 # Tools
 ##### Visual Studio 2010
